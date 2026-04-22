@@ -132,6 +132,7 @@ a{color:inherit}
   font-size:.75rem;letter-spacing:.28em;text-transform:uppercase;
   color:var(--orange);
   margin:0 0 .75rem;font-weight:600;
+  text-shadow:none;
 }
 .hero__title{
   font-family:var(--serif);
