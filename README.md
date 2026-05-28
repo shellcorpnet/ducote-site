@@ -9,7 +9,7 @@ site/
 ├── index.html         Home with hero, stats, services preview, service area, CTA
 ├── about.html         Company history, process, values
 ├── services.html      All 6 services + who-we-serve + engagement models
-├── team.html          Nick, Sarah, Judy, Ian — full bios and photos
+├── team.html          Nick, Judy, Ian — full bios and photos
 ├── portfolio.html     Fixed, full-width interactive Google My Map + legend
 ├── assets/
 │   ├── css/style.css  Brand palette, fully responsive, mobile nav
